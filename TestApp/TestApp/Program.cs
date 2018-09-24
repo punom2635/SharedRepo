@@ -11,7 +11,7 @@ namespace TestApp
         static void Main(string[] args)
         {
 			Console.BackgroundColor = ConsoleColor.Magenta;
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Hello World 123");
         }
     }
 }
